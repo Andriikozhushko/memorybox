@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999572367282",
+    "project_id": "memorybox2-da467",
+    "storage_bucket": "memorybox2-da467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999572367282:android:1fdd562a52e80c84f5e6ab",
+        "android_client_info": {
+          "package_name": "com.example.memorybox2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvU635MJuReaoFs-RIxCV5BRfqHxQMOig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999572367282:android:0b675e6105ab07d6f5e6ab",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth_firebase_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvU635MJuReaoFs-RIxCV5BRfqHxQMOig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
